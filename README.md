@@ -1,2 +1,2 @@
-# baekjoon-solving
-Baekjoon Online Judge 풀이
+# algorithm-solving
+알고리즘 문제 풀이
