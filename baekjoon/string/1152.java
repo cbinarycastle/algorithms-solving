@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 /**
  * 1152번
+ * 단어의 개수
  *
  * 문제
  * 영어 대소문자와 띄어쓰기만으로 이루어진 문장이 주어진다. 이 문장에는 몇 개의 단어가 있을까? 이를 구하는 프로그램을 작성하시오.
@@ -11,12 +12,6 @@ import java.util.Scanner;
  *
  * 출력
  * 첫째 줄에 단어의 개수를 출력한다.
- *
- * 예제 입력 1
- * The Curious Case of Benjamin Button
- *
- * 예제 출력 1
- * 6
  */
 class Main {
 
