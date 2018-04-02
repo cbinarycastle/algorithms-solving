@@ -6,8 +6,6 @@ import java.util.Scanner;
  *
  * https://www.acmicpc.net/problem/11654
  */
-import java.util.Scanner;
-
 class Main {
 
     public static void main(String[] args) {
